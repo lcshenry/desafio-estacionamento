@@ -1,0 +1,14 @@
+C:\Users\Lucas\Desktop\Projetos\dotnet-desafios\bin\Debug\net7.0\dotnet-desafios.exe
+c:\Users\Lucas\Desktop\Projetos\dotnet-desafios\bin\Debug\net7.0\dotnet-desafios.deps.json
+c:\Users\Lucas\Desktop\Projetos\dotnet-desafios\bin\Debug\net7.0\dotnet-desafios.runtimeconfig.json
+C:\Users\Lucas\Desktop\Projetos\dotnet-desafios\bin\Debug\net7.0\dotnet-desafios.dll
+C:\Users\Lucas\Desktop\Projetos\dotnet-desafios\bin\Debug\net7.0\dotnet-desafios.pdb
+C:\Users\Lucas\Desktop\Projetos\dotnet-desafios\obj\Debug\net7.0\dotnet-desafios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Projetos\dotnet-desafios\obj\Debug\net7.0\dotnet-desafios.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Projetos\dotnet-desafios\obj\Debug\net7.0\dotnet-desafios.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Projetos\dotnet-desafios\obj\Debug\net7.0\dotnet-desafios.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Projetos\dotnet-desafios\obj\Debug\net7.0\dotnet-desafios.dll
+C:\Users\Lucas\Desktop\Projetos\dotnet-desafios\obj\Debug\net7.0\refint\dotnet-desafios.dll
+C:\Users\Lucas\Desktop\Projetos\dotnet-desafios\obj\Debug\net7.0\dotnet-desafios.pdb
+c:\Users\Lucas\Desktop\Projetos\dotnet-desafios\obj\Debug\net7.0\dotnet-desafios.genruntimeconfig.cache
+c:\Users\Lucas\Desktop\Projetos\dotnet-desafios\obj\Debug\net7.0\ref\dotnet-desafios.dll
